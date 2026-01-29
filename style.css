@@ -1382,3 +1382,90 @@ section {
         display: none;
     }
 }
+.footer {
+  background: linear-gradient(135deg, #0f766e, #065f46);
+  padding: 36px 0;
+  text-align: center;
+  color: #ffffff;
+}
+
+.footer-creator-only {
+  max-width: 900px;
+  margin: auto;
+}
+
+.creator-name {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.creator-role {
+  font-size: 14px;
+  opacity: 0.9;
+  margin-bottom: 16px;
+}
+
+.creator-links {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.creator-links a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: #ffffff;
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.creator-links a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.creator-links i {
+  font-size: 16px;
+}
+
+/* Brand color hints (subtle, authentic) */
+.fa-whatsapp {
+  color: #25d366;
+}
+
+.fa-linkedin {
+  color: #0a66c2;
+}
+
+.fa-instagram {
+  color: #e4405f;
+}
+
+.footer-note {
+  font-size: 12px;
+  opacity: 0.75;
+  margin-bottom: 6px;
+}
+
+.footer-copy {
+  font-size: 12px;
+  opacity: 0.65;
+}
+
+.creator-name {
+  color: #facc15 ;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+}
+.creator-name {
+  margin-bottom: 8px;
+}
+.footer-note {
+  opacity: 0.75;
+  font-size: 12px;
+}
