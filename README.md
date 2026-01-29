@@ -51,7 +51,7 @@ khan-brothers-cricket-tournament/
 
 ## 👨‍💻 About the Creator
 
-**Masoom Khan**  
+**Masoom Patthan Khan**  
 Software Engineer | Platform & Integration Specialist  
 
 I work on building scalable solutions across platforms, including:
